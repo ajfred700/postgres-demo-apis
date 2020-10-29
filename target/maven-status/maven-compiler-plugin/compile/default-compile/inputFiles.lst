@@ -1,0 +1,9 @@
+/home/ajfred/Documentos/file/postgres-demo-api/src/main/java/com/example/postgresdemo/model/Question.java
+/home/ajfred/Documentos/file/postgres-demo-api/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/home/ajfred/Documentos/file/postgres-demo-api/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/home/ajfred/Documentos/file/postgres-demo-api/src/main/java/com/example/postgresdemo/model/Answer.java
+/home/ajfred/Documentos/file/postgres-demo-api/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
+/home/ajfred/Documentos/file/postgres-demo-api/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/home/ajfred/Documentos/file/postgres-demo-api/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/home/ajfred/Documentos/file/postgres-demo-api/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/home/ajfred/Documentos/file/postgres-demo-api/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
